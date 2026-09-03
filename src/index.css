@@ -1,0 +1,23 @@
+/* Plain CSS Stylesheet styling approach — global, app-wide styles */
+
+body {
+  background: #f4f6f9;
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+.app-wrapper {
+  max-width: 960px;
+  margin: 0 auto;
+  padding-bottom: 60px;
+}
+
+.filter-tabs .btn {
+  border-radius: 20px;
+}
+
+.app-footer {
+  text-align: center;
+  color: #94a3b8;
+  font-size: 0.8rem;
+  margin-top: 3rem;
+}
